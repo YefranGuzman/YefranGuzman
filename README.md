@@ -74,8 +74,8 @@ Soy un <strong>Ingeniero en Sistemas</strong> de Managua, Nicaragua, enfocado en
 
 <div align="center"> 
   <!-- ⚠️ IMPORTANTE: Cambia REEMPLAZA_POR_TU_USUARIO por tu nombre de usuario real de GitHub en ambas URLs para que muestre tus datos -->
-  <img src="https://github-readme-stats.vercel.app/api?username=REEMPLAZA_POR_TU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true" height="180" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=REEMPLAZA_POR_TU_USUARIO&locale=es&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="180" alt="Streak Graph" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=YefranGuzman&show_icons=true&theme=tokyonight&include_all_commits=true" height="180" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=YefranGuzman&locale=es&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="180" alt="Streak Graph" /> 
 </div> 
 
 ###
