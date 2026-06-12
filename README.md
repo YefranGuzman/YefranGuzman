@@ -1,16 +1,33 @@
-## Hi there 👋
+¡Hola! Soy Yefran José Guzmán Rivas
+👋
+Soy un Ingeniero en Sistemas de Managua, Nicaragua, apasionado por el desarrollo de
+software y la arquitectura de sistemas. Me enfoco en construir soluciones robustas, eficientes y
+escalables utilizando un sólido stack técnico, siempre priorizando las buenas prácticas y la
+optimización del rendimiento.
 
-<!--
-**YefranGuzman/YefranGuzman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+‍ Sobre Mí
+● 🔭 Enfoque Actual: Consultorías técnicas y asesoría de contenido para empresas en el
+extranjero (EE. UU.) a través de SM Solutions.
+● 📐 Intereses de Arquitectura: Diseño de sistemas escalables, transiciones de
+arquitecturas monolíticas a microservicios, y patrones BL-DA (Business Logic - Data
+Access).
+● ⚙️ Automatización: Optimización de flujos de trabajo mediante herramientas modernas
+de automatización y protocolos como n8n y MCP (Model Context Protocol).
 
-Here are some ideas to get you started:
+️ Tecnologías y Herramientas
+Backend & Arquitectura
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frontend
+
+Bases de Datos & DevOps
+
+Diseño & Automatización
+
+📊 Estadísticas de GitHub
+
+Nota: Para activar estas tarjetas dinámicas, recuerda reemplazar TU_USUARIO_DE_GITHUB
+por tu nombre de usuario real en las URLs.
+
+📬 Conéctate Conmigo
+● 💼 LinkedIn: Tu Perfil Profesional
+● 🌐 Portafolio Personal: Tu Portafolio
