@@ -32,7 +32,7 @@
 <p align="left">
 Soy un <strong>Ingeniero en Sistemas</strong> de Managua, Nicaragua, enfocado en el desarrollo de software y la arquitectura de sistemas escalables.<br><br>
 - 🔭 Actualmente trabajando en consultoría técnica y asesoría de contenido para empresas de EE. UU. a través de <strong>SM Solutions</strong>.<br>
-- 📐 Me apasiona el diseño de arquitecturas sólidas, la transición de sistemas monolíticos a microservicios y la implementación de patrones BL-DA.<br>
+- 📐 Me apasiona el diseño de arquitecturas sólidas, la transición de sistemas monolíticos a microservicios y la implementación de patrones BL-DA, En empresas como Airpak - Western Union y Grupo Monge<br>
 - ⚙️ Optimizo flujos de trabajo e integración mediante herramientas de automatización como <strong>n8n</strong> y protocolos como <strong>MCP (Model Context Protocol)</strong>.
 </p> 
 
