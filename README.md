@@ -6,7 +6,10 @@
 
 <div align="center"> 
   <!-- Reemplaza los '#' con los enlaces reales a tus perfiles -->
-  <a href="#" target="_blank">
+  <a href="https://yefranprofile.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Website&logo=netlify&label=&color=00C7B7&logoColor=white&style=for-the-badge" height="25" alt="website logo" />
+  </a>
+  <a href="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ni.linkedin.com/in/yefran-jose-guzman-rivas-ni&ved=2ahUKEwiY1Ymr9IKVAxXpQjABHaTQBKQQFnoECB0QAQ&usg=AOvVaw1A4HQcZ8grbrfV8g2Ap9sL" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
 </div> 
@@ -15,7 +18,7 @@
 
 <div align="center"> 
   <!-- Cambia REEMPLAZA_POR_TU_USUARIO por tu usuario real de GitHub para que cuente tus visitas -->
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=REEMPLAZA_POR_TU_USUARIO.github.io&" alt="Visitor Badge" /> 
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=yefranguzman.github.io&" alt="Visitor Badge" /> 
 </div> 
 
 ### 
