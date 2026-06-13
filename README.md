@@ -55,8 +55,18 @@ Soy un <strong>Ingeniero en Sistemas</strong> de Managua, Nicaragua, enfocado en
 
   <!-- React -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="React logo" /> 
-  <img width="12" /> 
+  <img width="12" />
 
+  <!-- html -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="html logo"/>
+  <img width="12">
+  
+  <!-- css -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="40" alt="css logo"/>
+  <img width="12">
+  <!-- jest -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" height="40" alt="Jest logo"/>
+   <img width="12">       
   <!-- JavaScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" /> 
   <img width="12" /> 
